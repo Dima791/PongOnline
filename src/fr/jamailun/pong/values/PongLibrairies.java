@@ -25,8 +25,8 @@ public class PongLibrairies {
 	
 	public final static int $packetSize = 256;
 	
-	public final static String $publicServerIp = "149.91.82.85";
-	public final static int $publicServerPort = 140;
+	public final static String $publicServerIp = "XXXXXXXXXX";
+	public final static int $publicServerPort = XXXXXXXXXXXX;
 	
 	/**
 	 * @AUTRE
