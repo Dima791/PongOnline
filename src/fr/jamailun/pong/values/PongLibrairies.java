@@ -21,7 +21,7 @@ public class PongLibrairies {
 	 * 		@DATA
 	 */
 	
-	public final static String $ver = "BETA-release";
+	public final static String $ver = "1.0.1";
 	
 	public final static int $packetSize = 256;
 	
